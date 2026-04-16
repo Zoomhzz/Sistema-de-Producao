@@ -1,2 +1,4 @@
-# Sistema-de-Produ-o
-Repositório de automação e lógica com Python e Java. Inclui um sistema de gestão de vestuário com cálculos de produção e uma API REST em Spring Boot para controle de funcionários e fornecedores. Projetos focados em código limpo, tratamento de erros, persistência de dados e modularização de funcionalidades.
+### 🧥 Sistema de Produção Têxtil
+Calculadora de custos de produção com validação de dados rígida.
+- **Funcionalidades:** Seleção de tipo de roupa, tamanho e cálculo dinâmico de preços.
+- **Destaques:** Tratamento de exceções (try/except) e dicionários aninhados para precificação.
